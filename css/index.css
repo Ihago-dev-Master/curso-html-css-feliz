@@ -42,4 +42,6 @@ a::before {   /* Pseudo-elemento */
     transform: scale(1.08);
 }
 
+
+
 /* Para definir a largura do button posso colocar o padding nas laterais ao inves de width */

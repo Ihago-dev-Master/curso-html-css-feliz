@@ -1,0 +1,22 @@
+{
+  "name": "curso-html-css-feliz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ihago-dev-Master/curso-html-css-feliz.git"
+  },
+  "keywords": [
+    "senh@775"
+  ],
+  "author": "Ihago-dev-Master",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ihago-dev-Master/curso-html-css-feliz/issues"
+  },
+  "homepage": "https://github.com/Ihago-dev-Master/curso-html-css-feliz#readme"
+}

@@ -1,4 +1,4 @@
-.action {
+.main-action {
     display: inline-flex;
     align-items: center;
     color: #fff;
@@ -9,7 +9,7 @@
     margin-right: 30px;
 }
 
-.action::before {   /* Pseudo-elemento */
+.main-action::before {   /* Pseudo-elemento */
     content: "";  /* O content é obrigatório pois quer dizer que está sendo criado um conteúdo */
     background-color: #f25a70;
     width: 10px;
